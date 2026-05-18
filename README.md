@@ -1,9 +1,6 @@
 # asana-backlog-ecommerce-analysis
 End-to-end e-commerce business analysis project managed with an Asana-style backlog, including KPI definition, data analysis, dashboarding, SQL queries, and business recommendations.
 
-# asana-backlog-ecommerce-analysis
-Firma e-commerce chce zwiększyć przychód i poprawić retencję klientów. Celem analizy jest sprawdzenie, które produkty, kanały sprzedaży i segmenty klientów generują największą wartość oraz gdzie występują problemy: spadki sprzedaży, wysoki zwrot, niska marża lub słaba konwersja.
-
 # Online Retail Business Analysis with Asana Backlog
 
 ## Project Overview
@@ -77,5 +74,83 @@ data/
 notebooks/
 sql/
 reports/
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Analiza Biznesowa Sprzedaży Online z Backlogiem w Asanie
+
+## Przegląd projektu
+
+Ten projekt to kompleksowe case study z zakresu analizy biznesowej i analizy danych, oparte na danych transakcyjnych sklepu internetowego. Celem projektu jest analiza wyników sprzedaży, zachowań klientów, efektywności produktów oraz identyfikacja możliwości biznesowych.
+
+Projekt pokazuje również umiejętność zarządzania pracą analityczną poprzez backlog w stylu Asany.
+
+## Kontekst biznesowy
+
+Firma z Wielkiej Brytanii prowadząca sprzedaż online chce lepiej zrozumieć swoje wyniki sprzedażowe oraz zachowania klientów. Firma potrzebuje insightów, które mogą wspierać decyzje dotyczące marketingu, produktów, retencji klientów oraz rozwoju sprzedaży międzynarodowej.
+
+## Problem biznesowy
+
+Firma chce zidentyfikować:
+
+- które produkty generują największy przychód,
+- które kraje są najbardziej wartościowymi rynkami,
+- którzy klienci są najbardziej wartościowi,
+- czy sprzedaż wykazuje sezonowość,
+- jakie działania mogą poprawić sprzedaż i retencję klientów.
+
+## Cele projektu
+
+Główne cele projektu to:
+
+1. Zdefiniowanie pytań biznesowych i KPI.
+2. Przygotowanie oraz oczyszczenie danych transakcyjnych.
+3. Analiza przychodów, produktów, krajów i klientów.
+4. Segmentacja klientów metodą RFM.
+5. Przygotowanie dashboardu biznesowego.
+6. Opracowanie rekomendacji biznesowych.
+7. Udokumentowanie backlogu i przebiegu projektu.
+
+## Wykorzystane narzędzia
+
+- Python
+- Pandas
+- SQL
+- Power BI / Tableau / Looker Studio
+- Asana
+- GitHub
+- Markdown
+
+## Kluczowe pytania biznesowe
+
+- Jak wyglądają miesięczne trendy przychodów?
+- Które produkty generują najwyższy przychód?
+- Które kraje generują najwyższy przychód?
+- Kim są najbardziej wartościowi klienci?
+- Jakie segmenty klientów można zidentyfikować?
+- Jakie działania biznesowe mogą poprawić wyniki firmy?
+
+## Kluczowe KPI
+
+- Całkowity przychód
+- Liczba zamówień
+- Liczba klientów
+- Średnia wartość zamówienia
+- Przychód miesięczny
+- Przychód według kraju
+- Najlepsze produkty według przychodu
+- Wskaźnik anulowanych zamówień
+- Wskaźnik powracających klientów
+- Segmenty klientów RFM
+
+## Struktura projektu
+
+```text
+data/
+notebooks/
+sql/
+reports/
+dashboards/
+project_management/
 dashboards/
 project_management/
